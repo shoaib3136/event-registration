@@ -20,7 +20,7 @@ In that page create requried number of frames
 ### Step 4:
 After creating frames then go to design part which is on right side of the screen and select colors and different styles 
 
-
+ 
 ### Step 5:
 Then assign each frame to your teammates and ask them to design frame as they wanted to do.
 
@@ -39,7 +39,7 @@ After completion of designing go to prototype section and connect frame with oth
 
 ## My Design for one frame:
 ### login page:
-![output](./event.png)
+![output](./event2.png)
 
 ## Result:
 Thus the web application for event registration is successfully designed.
